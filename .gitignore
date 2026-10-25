@@ -1,0 +1,17 @@
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local editor state
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
